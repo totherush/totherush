@@ -9,10 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#### GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=totherush&show_icons=true)
-
 #### GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=totherush)
