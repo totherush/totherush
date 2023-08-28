@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 ### Hi there, I'm Tobi 👋
 
 - 🔭 I’m currently working on ...
@@ -27,9 +24,3 @@
 #### Profile Views
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=totherush)
-
-
-
-
-
--->
