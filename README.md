@@ -14,11 +14,3 @@ Software Engineer [@Skribble](https://skribble.com)
 #### GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=totherush)
-
-#### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totherush)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Profile Views
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=totherush)
