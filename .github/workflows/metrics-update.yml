@@ -1,9 +1,9 @@
 name: Metrics
 on:
-  schedule:
-    - cron: 0 0 * * *
-  push: {}
-  pull_request: {}
+  #schedule:
+  #  - cron: 0 0 * * *
+  #push: {}
+  #pull_request: {}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
