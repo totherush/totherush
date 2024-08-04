@@ -14,8 +14,3 @@ Software Engineer [@Skribble](https://skribble.com)
 #### GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=totherush)
-
-
-#### GitHub metrics
-
-![Metrics](/github-metrics.svg)
