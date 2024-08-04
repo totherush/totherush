@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          debug: true
           token: ${{ secrets.METRICS_TOKEN }}
           repositories: 100
           retries: 10
