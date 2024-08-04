@@ -8,7 +8,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate SVG
+        uses: lowlighter/metrics@latest
         with:
           debug: true
           token: ${{ secrets.METRICS_TOKEN }}
@@ -31,3 +32,9 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
+      - name: Commit Metrics Output
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update metrics"
+          branch: main
+          file_pattern: metrics_renders/github-metrics.svg
