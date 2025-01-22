@@ -10,7 +10,9 @@ Software Engineer [@Skribble](https://skribble.com)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 #### GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=totherush)
+
+-->
